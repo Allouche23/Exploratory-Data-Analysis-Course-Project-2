@@ -27,3 +27,6 @@ Source Classification Code Table (\color{red}{\verb|Source_Classification_Code.r
 This table provides a mapping from the SCC digit strings in the Emissions table to the actual name of the PM2.5 source. 
 The sources are categorized in a few different ways from more general to more specific and you may choose to explore whatever categories you think are most useful. 
 For example, source “10100101” is known as “Ext Comb /Electric Gen /Anthracite Coal /Pulverized Coal”.
+
+#Analysis 
+in order to make the code work, you nead to have summarySCC_PM25.rds" and Source_Classification_Code.rds in you working directory
